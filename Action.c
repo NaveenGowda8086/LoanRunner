@@ -1,6 +1,6 @@
 Action()
 {
-	// Adding some comment
+
 	web_set_sockets_option("SSL_VERSION", "AUTO");
 
 	web_add_auto_header("Accept", 
